@@ -1,0 +1,15 @@
+body {
+    background-color: yellowgreen;
+}
+
+h1 {
+    color: #fff;
+}
+
+small {
+    display: block;
+}
+
+h3 {
+    display: inline;
+}
